@@ -1,3 +1,3 @@
 # Github_Learn
-This is for Github learning only
+This is for Github learning only /n
 Day1: Okay, so this is my first time try to use Git Hub
